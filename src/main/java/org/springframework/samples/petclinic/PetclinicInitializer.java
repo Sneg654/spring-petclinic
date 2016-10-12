@@ -36,6 +36,9 @@ import javax.servlet.ServletContext;
  *
  * @author Antoine Rey
  */
+/*
+* test commit for jekens
+* */
 public class PetclinicInitializer extends AbstractDispatcherServletInitializer {
 
     /**
